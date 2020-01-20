@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="dev.edmt.tedrecku">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Alimente.LapteActivity"></activity>
+        <activity android:name=".Alimente.OuaActivity" />
+        <activity android:name=".Alimente.MarActivity" />
+        <activity android:name=".Alimente.VitaGrasaActivity" />
+        <activity android:name=".Alimente.CascavalActivity" />
+        <activity android:name=".Alimente.SpanacActivity" />
+        <activity android:name=".Alimente.CaiseActivity" />
+        <activity android:name=".Alimente.CastravetiActivity" />
+        <activity android:name=".Alimente.FulgiDeOvazActivity" />
+        <activity android:name=".DietsActivity" />
+        <activity android:name=".SleepActivity" />
+        <activity android:name=".PhotosActivity" />
+        <activity android:name=".TrainingActivity" />
+        <activity android:name=".DespreMineActivity" />
+        <activity
+            android:name=".AlimenteActivity"
+            android:label="@string/title_activity_alimente"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Alimente.UsturoiActivity" />
+        <activity android:name=".Alimente.CartofActivity" />
+        <activity android:name=".Alimente.BananaActivity" />
+        <activity android:name=".SecondActivity" />
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".CalculatorActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

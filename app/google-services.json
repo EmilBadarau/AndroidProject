@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "321193405464",
+    "firebase_url": "https://loginemilut.firebaseio.com",
+    "project_id": "loginemilut",
+    "storage_bucket": "loginemilut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321193405464:android:9ac41475552fdbe2fc676d",
+        "android_client_info": {
+          "package_name": "dev.edmt.tedrecku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321193405464-g7oj6h4ncmsglnankdddoe3dhrvfboo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKfLdcCJRubkRQ9tSlRFsqT__XOEQITn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321193405464-g7oj6h4ncmsglnankdddoe3dhrvfboo8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

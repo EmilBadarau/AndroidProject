@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/backread"
+    android:layout_height="match_parent"
+    tools:context=".SleepActivity">
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="195dp"
+        android:layout_height="173dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.96"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.014"
+        android:background="@drawable/sleepperson" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="168dp"
+        android:layout_height="170dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.035"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.014"
+        app:srcCompat="@drawable/eblogo" />
+
+    <TextView
+        android:id="@+id/textViewSleep"
+        android:layout_width="345dp"
+        android:layout_height="484dp"
+
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:fontFamily="sans-serif-medium"
+        android:scrollbars="vertical"
+        android:text="Fiecare fiinta vie are nevoie de somn pentru a supravietui. Somnul suficient si odihnitor protejeaza sanatatea mintala si sanatatea fizica, creste calitatea vietii. Activitatile pe care le facem in timpul zilei depind in mare parte de ceea ce se intampla in timp ce dormim, cand organismul nu doarme, ci lucreaza pentru a sprijini functionarea sanatoasa a creierului si pentru a mentine sanatatea fizica. In cazul copiilor si adolescentilor, somnul sustine si sprijina procesul de crestere.
+
+Timp de mai multe sute de ani, s-a crezut ca somnul este pur si simplu o stare pasiva, in care corpul si mintea se odihnesc sau, asa cum credea Aristotel, o perioada lipsita de importanta marcata de absenta perceptiilor senzoriale obisnuite. Adesea, somnul era considerat o simpla stare in care putem visa.
+
+A devenit, insa, foarte clar in ultimele decenii ca somnul nu este pur si simplu un moment in care sistam toate activitatile mentale si fizice, ci mai degraba o A DOUA STARE, cu propriile activitati mentale si fizice complexe si variate. Somnul este un proces fiziologic esential atat pentru om, cat si pentru cele mai multe animale. Ajuta creierul si organismul sa se dezvolte armonios si sa functioneze bine. Prin urmare, atunci cand dormim putin, suntem mai putin eficienti, suntem obositi si nervosi, facem mai multe greseli, suntem mai putini creativi si ne imbolnavim mult mai repede. Somnul este o nevoie fizologica de baza, asemenea setei si foamei, fara de care nu putem exista.
+
+Somnul mentine sanatatea creierului si bunastarea emotionala
+Somn ajuta creierul sa functioneze corect. In timp ce dormim, creierul se pregateste pentru a doua zi, formand noi cai cu ajutorul carora putem sa invatam si sa ne amintim diverse informatii.
+
+Studiile arata ca un somn odihnitor imbunatateste capacitatea de invatare. Fie ca invatam matematica sau cum sa cantam la pian, cum sa jucam fotbal sau volei sau cum sa conducem o masina, somnul ne ajuta imbunatateste procesul de invatare si abilitatile de rezolvare a problemelor. De asemenea, somnul ne ajuta sa ne concentram mai bine si sa fim mai creativi.
+
+Pe de alta parte, studiile arata ca deficienta de somn modifica activitatea in anumite parti ale creierului, ingreunand procesul de luare a deciziilor, de gestionare a emotiilor si a comportamentului, precum si capacitatea de a face fata schimbarilor. Copiii si adolescentii cu deficit de somn pot avea probleme in relationarea cu persoanele din jur. Ei pot fi nervosi si impulsivi, pot avea modificari ale dispozitiei, pot fi tristi sau deprimati sau lipsiti de motivatie.
+
+Necesarul de somn
+Cei mai multi oameni au nevoie, in medie, de aproximativ opt ore de somn odihnitor pentru a functiona corect. Important este sa aflam cantitatea de somn necesara propriului organism si apoi sa incercam sa atingem acel numar de ore.
+
+Ca regula generala, daca ne trezim obositi si simtim pe parcursul zilei o nevoie puternica de a dormi, este evident ca nu dormim suficient.
+
+Somnul odihnitor presupune:
+
+10 - 11 ore la copii
+8,5 – 9,5 ore la adolescenti
+7-9 ore la adulti
+Cantitatea si calitatea somnului este influentata de mai multi factori, printre care se numara si diferite afectiuni medicale, precum apneea in somn. Cu toate acestea, de cele mai multe ori nu reusim sa ne odihnim din cauza obiceiurilor proaste.
+
+Beneficiiile somnului odihnitor
+Stimuleaza imunitatea
+Un organism odihnit este mult mai puternic si se poate apara mai bine de infectii si raceli.
+
+Mentine greutatea sanatoasa
+Studiile au aratat ca persoanele care dorm mai putin de 7 ore pe noapte tind sa creasca mai mult in greutate si au un risc mai mare de obezitate.
+
+Imbunatateste activitatea psihica
+Deprivarea cronica de somn poate duce la tulburari de dispozitie pe termen lung, cum ar fi depresia si anxietatea. Cercetarile au demonstrat ca multe dintre persoanele care sufera de anxietate si depresie dorm mai putin de 6 ore pe noapte.
+
+Previne diabetul zaharat
+Oamenii de stiinta au constatat ca persoanele care dorm, de obicei, mai putin de 5 ore pe noapte au un risc crescut de a dezvolta diabet zaharat. Lipsa somnului profund schimba modul in care organismul produce glucoza.
+
+Creste apetitul sexual
+Barbatii si femeile care nu dorm suficient au un libido scazut si par mai putin interesati de sex, sugereaza studiile.
+
+Scade riscul de boli de inima
+Lipsa somnului pe perioade lungi de timp este asociata cu un nivel crescut al tensiunii arteriale, ritm cardiac crescut si niveluri mai ridicate ale anumitor substante chimice care cresc riscul de inflamatie.
+
+Stimuleaza fertilitatea
+Somnul insuficient pe perioade lungi de timp poate conduce la probleme de fertilitate, prin reducerea secretiei de hormoni de reproducere.
+
+Imbunatateste memoria
+In timp ce dormim, creierul proceseaza si consolideaza experientele din ziua respectiva. Daca nu dormim suficient, acele experiente nu vor putea fi stocate si transformate in amintiri, asa cum se intampla in mod normal.
+
+Reteta pentru un somn odihnitor
+Obiceiurile de somn sanatoase si, implicit, o buna igiena a somnului, pot face o mare diferenta in calitatea vietii. Oricand putem face mici schimbari in stilul de viata, pentru a ne imbunatati calitatea somnului. Iata ce poti face pentru un somn linistit si odihnitor:
+
+Adopta un program de somn si tine-te de el. Incearca sa adormi la aceeasi ora in fiecare seara si sa te trezesti la aceeasi ora in fiecare zi, chiar si la sfarsit de saptamana. In acest fel se regleaza ceasul biologic al organismului, fapt care te va ajuta sa adormi mai usor si sa ai un somn linistit.
+
+Evita sa dormi dupa-amiaza. Somnul de dupa-amiaza te ajuta sa duci la bun sfarsit sarcinile zilnice, insa te tine treaz seara si perturba programul obisnuit de somn.
+
+Fa miscare zilnic. Sunt recomandate exercitiile fizice intense, in timpul zilei, dar nu inainte de culcare. Daca nu poti face miscare intr-un ritm alert, poti practica orice tip de exercitiu: sa mergi mai mult pe jos, sa faci genoflexiuni sau abdomene etc. Important este sa faci miscare si sa consumi energie.
+
+Evita alcoolul, tigarile si mese grele in timpul serii. Alcoolul, tigarile si cofeina perturba somnul. Mancarurile grele sau picante pot irita intestinul si te pot tine treaz mai mult timp. Este recomandat sa eviti orice fel de mancare cu cel putin 2 ore inainte de culcare.
+
+Pregateste camera pentru somn. Dormitorul trebuie sa indeplineasca anumite conditii pentru a te ajuta sa ai un somn linistit. In primul rand, temperatura nu trebuie sa fie mai mare de 19 grade Celsius. Specialistii recomanda sa nu existe un televizor in dormitor, iar daca exista, sa-l inchizi cu 30 de minute inainte de culcare. Incearca sa inlaturi orice sursa de zgomot sau lumina. Poti apela cu incredere la draperii, masti de ochi, dopuri pentru urechi, aparate de “zgomot alb”, care redau cantece sau sunete relaxante.
+
+Practica o tehnica de relaxare inainte de culcare. O activitate de relaxare, practicata chiar inainte de culcare, intr-o lumina difuza, te ajuta sa faci trecerea de la activitatile solicitante din timpul zilei la linistea de care ai nevoie pentru a adormi.
+
+Dormi pe o saltea confortabila. Asigura-te ca salteaua este solida, dar confortabila. Fii atent si la aspectul ei, avand in vedere ca este recomandat sa folosesti aceeasi saltea timp de maximum 10 ani.
+
+Alege pernele potrivite. Incearca sa folosesti o perna confortabila, adaptata stilului tau de a dormi (pe spate, pe o parte, etc.), iar daca esti alergic la praf, alege o perna anti-alergica.
+
+Foloseste patul doar pentru dormit si sex. Daca nu poti sa adormi, este de preferat sa te ridici si sa mergi intr-o alta camera, unde sa faci ceva relaxant. In momentul in care te vei simti iar obosit, te poti intoarce in dormitor. Patul trebuie folosit doar pentru somn si sex, doarece astfel se consolideaza asocierea dintre pat si somn.
+
+In cazul in care adoptarea unei rutine nu te ajuta sa te odihnesti suficient noaptea, este recomandat sa mergi la medic pentru a descoperi cauzele. "
+        android:textColor="#FD050303"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.865" />
+</androidx.constraintlayout.widget.ConstraintLayout>

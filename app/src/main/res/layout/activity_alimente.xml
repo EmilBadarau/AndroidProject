@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AlimenteActivity">
+
+
+    <Button
+        android:id="@+id/buttonBanana"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Banana" />
+
+    <Button
+        android:id="@+id/buttonCaise"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Caise" />
+
+    <Button
+        android:id="@+id/buttonCartof"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cartof" />
+
+    <Button
+        android:id="@+id/buttonCascaval"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cascaval" />
+
+    <Button
+        android:id="@+id/buttonCastraveti"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Castraveti" />
+
+    <Button
+        android:id="@+id/buttonFulgiDeOvaz"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FulgiDeOvaz" />
+
+    <Button
+        android:id="@+id/buttonLapte"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lapte" />
+
+    <Button
+        android:id="@+id/buttonMar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mar" />
+
+    <Button
+        android:id="@+id/buttonOua"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Oua" />
+
+    <Button
+        android:id="@+id/buttonSpanac"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Spanac" />
+
+    <Button
+        android:id="@+id/buttonUsturoi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Usturoi" />
+
+    <Button
+        android:id="@+id/buttonVitaGrasa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="VitaGrasa" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/fab_margin"
+        app:srcCompat="@android:drawable/ic_dialog_email" />
+
+
+
+
+</LinearLayout>
